@@ -1,7 +1,17 @@
 /* Add styling for your page here */
 
 .App {
+    text-align: center;
+}
 
+.bakeryName {
+    background-color: rgba(0, 0, 255, .4);
+    margin: auto;
+}
+
+.img {
+    width: 40%;
+    height: auto;
 }
 
 .BakeryItem {
